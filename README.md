@@ -13,6 +13,9 @@ Read this comic http://theoatmeal.com/comics/design_hell
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 License/Copyright
+guoqiaoxi
+https://blog.csdn.net/freedomVenly/article/details/103245790
+chatGTP
 =================
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
