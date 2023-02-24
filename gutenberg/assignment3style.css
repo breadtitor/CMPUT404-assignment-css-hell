@@ -1,0 +1,53 @@
+/* Set the background color to a yellowish or paper-like color */
+body {
+    background-color: #f6e7d6;
+  }
+  
+  /* Set the font to a serif font */
+  body {
+    font-family: Georgia, serif;
+  }
+  
+  /* Theme paragraphs */
+  p {
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+  
+  /* Theme header tags */
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    font-family: "Times New Roman", serif;
+    margin-bottom: 20px;
+  }
+  
+  /* Theme images */
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  /* Theme image captions */
+  figcaption {
+    font-style: italic;
+    margin-top: 10px;
+    font-size: 0.8em;
+  }
+  
+  /* Change the color scheme to something aesthetically pleasing */
+  body {
+    color: #4d4d4d;
+  }
+  
+  a {
+    color: #bd4d1e;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #7a5230;
+  }
+  
+  p {
+    color: #4d4d4d;
+  }
